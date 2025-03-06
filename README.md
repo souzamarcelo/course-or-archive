@@ -52,7 +52,7 @@ Marcelo de Souza (2022), Métodos Quantitativos. Online: https://github.com/souz
 @Misc{Souza2022lnor,
     title =        {Métodos Quantitativos},
     author =       {Marcelo de Souza}, 
-    howPublished = {\url{https://github.com/souzamarcelo/course-or}}, 
+    howPublished = {\url{https://github.com/souzamarcelo/course-or-archive}}, 
     year =         {2022},
     note =         {Creative Commons BY-NC-ND 4.0}
 }
